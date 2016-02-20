@@ -3,5 +3,5 @@
 
 
 ## Scala Tour
-* (Abstract Types)[http://docs.scala-lang.org/tutorials/tour/abstract-types.html]
+   * [Abstract Types](http://docs.scala-lang.org/tutorials/tour/abstract-types.html)
 
