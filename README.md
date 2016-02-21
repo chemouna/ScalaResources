@@ -10,3 +10,6 @@
 
 ## Scala Types
 * [Structural Typing](http://codemonkeyism.com/scala-goodness-structural-typing/)
+
+## Comparison With Other Languages 
+* [Scala Vs Clojure](http://blog.scottlogic.com/2014/10/28/Scala-Vs-Clojure.html)
