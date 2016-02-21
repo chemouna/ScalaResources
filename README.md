@@ -7,3 +7,6 @@
 ## Scala Tour
 * [Classes](http://docs.scala-lang.org/tutorials/tour/classes.html)
 * [Abstract Types](http://docs.scala-lang.org/tutorials/tour/abstract-types)
+
+## Scala Types
+* [Structural Typing](http://codemonkeyism.com/scala-goodness-structural-typing/)
